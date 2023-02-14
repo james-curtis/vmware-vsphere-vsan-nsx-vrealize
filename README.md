@@ -127,7 +127,7 @@ HH4RM-FGL9J-08R61-0JA0P-2TUNL
 
 
 
-## NSX-T Data Center 3.x
+## NSX-T Data Center 3.x or VMware NSX 4.0
 
 GC7N2-2NZDM-H88NY-GWQ7G-YF0E0
 
