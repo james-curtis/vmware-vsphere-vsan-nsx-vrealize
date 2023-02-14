@@ -3,6 +3,11 @@
 Licenses for each version of vmware series products (Special for testing)
 
 
+# Download
+
+- https://sysin.org/blog/vmware/
+- https://www.dinghui.org/vmware-iso-download.html
+
 
 ## VMware vSphere 8
 
